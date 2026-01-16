@@ -65,6 +65,10 @@ Escape Tsunami For Brainrots script, Roblox Escape Tsunami For Brainrots script,
 ## Preview:
 ![image](https://github.com/user-attachments/assets/3d98bb0a-ebd3-4a89-ba32-f49cd6463556)
 
+## Script loadstring:
+```lua
+pcall(loadstring(game:HttpGet('https://raw.githubusercontent.com/zReal-King/Escape-Tsunami-For-Brainrots/refs/heads/main/Main.lua')))
+```
 ## Credits:
 Real King (zreal_king) - @Main Developer
 
