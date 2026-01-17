@@ -15,7 +15,6 @@ Built-in:
 * Optimized
 
 Main:
-* Auto Farm XP (Win every round)
 * Reach to end [Goes to Last Area]
 * Auto Collect
 * Upgrade All
