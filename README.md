@@ -25,6 +25,8 @@ Main:
 * Auto Upgrade Base
 * Auto Upgrade Carry
 * Auto Sell All
+* Auto Accept All Gifts
+* Auto Accept Better Trades
 * Sell Holding Item
 * Semi Anti Tsunami
 * Auto Hit Others
