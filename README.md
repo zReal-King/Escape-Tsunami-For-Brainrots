@@ -66,7 +66,7 @@ Settings:
 ## key words:
 Escape Tsunami For Brainrots script, Roblox Escape Tsunami For Brainrots script, Escape Tsunami For Brainrots GUI, free Escape Tsunami For Brainrots script, best Escape Tsunami For Brainrots script, Escape Tsunami For Brainrots script, Escape Tsunami For Brainrots auto farm, Escape Tsunami For Brainrots ESP, Escape Tsunami For Brainrots auto win, Escape Tsunami For Brainrots fly script, Escape Tsunami For Brainrots script Roblox,
 ## Preview:
-![image](https://github.com/user-attachments/assets/3d98bb0a-ebd3-4a89-ba32-f49cd6463556)
+![image](https://github.com/user-attachments/assets/b2fa3f60-1871-4ecc-85e9-fe4fd7c6b5b7)
 
 ## Script loadstring:
 ```lua
