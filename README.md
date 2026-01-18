@@ -16,16 +16,18 @@ Built-in:
 
 Main:
 * Reach to end [Goes to Last Area]
+* Reach to spawn [Goes From Last Area to Spawn]
+* Auto Farm Event
 * Auto Collect
 * Upgrade All
 * No Cooldown
+* Auto Spin Wheel
 * Auto Upgrade Speed
 * Auto Rebirth
 * Auto Upgrade Base
 * Auto Upgrade Carry
 * Auto Sell All
 * Auto Accept All Gifts
-* Auto Accept Better Trades
 * Sell Holding Item
 * Semi Anti Tsunami
 * Auto Hit Others
