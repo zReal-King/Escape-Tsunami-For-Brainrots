@@ -18,8 +18,10 @@ Main:
 * Reach to end [Goes to Last Area]
 * Reach to spawn [Goes From Last Area to Spawn]
 * Auto Farm Event
+* Auto Complete Obby
 * Auto Collect
 * Upgrade All
+* Auto Pick Brainrots
 * No Cooldown
 * Auto Spin Wheel
 * Auto Upgrade Speed
@@ -31,6 +33,7 @@ Main:
 * Sell Holding Item
 * Semi Anti Tsunami
 * Auto Hit Others
+* Auto Hit Nearest Player
 * Anti Hit
 
 Miscellaneous:
