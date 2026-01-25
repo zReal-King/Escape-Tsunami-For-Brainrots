@@ -22,14 +22,12 @@ Main:
 * Auto Collect
 * Upgrade All
 * Auto Pick Brainrots
-* No Cooldown
-* Auto Spin Wheel
+* Auto Pick Lucky Blocks
 * Auto Upgrade Speed
 * Auto Rebirth
 * Auto Upgrade Base
 * Auto Upgrade Carry
 * Auto Sell All
-* Auto Accept All Gifts
 * Sell Holding Item
 * Semi Anti Tsunami
 * Auto Hit Others
@@ -37,7 +35,10 @@ Main:
 * Anti Hit
 
 Miscellaneous:
-* Teleport to gaps [Safe Areas]
+* Auto Spin Wheel
+* Auto Accept All Gifts
+* No Cooldown
+* Auto Use Machine
 
 Player:
 * Walk Speed
@@ -52,6 +53,7 @@ Player:
 
 * Players ESP
 * Brainrots ESP
+* Lucky Blocks ESP
 * Players Highlight
 
 Map:
